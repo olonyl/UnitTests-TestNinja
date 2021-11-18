@@ -83,6 +83,9 @@
     <Compile Include="Stack\LinkedList\MyLinkedList.cs" />
     <Compile Include="Stack\Mutable\IMutableStack.cs" />
     <Compile Include="Stack\Mutable\MyMutableStack.cs" />
+    <Compile Include="TicTacToe\Game.cs" />
+    <Compile Include="TicTacToe\State.cs" />
+    <Compile Include="TicTacToe\Winner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
